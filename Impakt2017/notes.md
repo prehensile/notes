@@ -4,9 +4,11 @@
 
 ### Session: Speculative Realities
 
-https://www.youtube.com/watch?v=lN_j0pvi6RE
+https://www.youtube.com/watch?v=QhwXacDaq-E
 
 #### Scott Smith 🌟
+
+https://youtu.be/QhwXacDaq-E?t=2m44s
 
 - the increasing difficulty of knowing what's real and what's fake
 - cross-quadrant workign group
@@ -25,13 +27,18 @@ https://www.youtube.com/watch?v=lN_j0pvi6RE
 
 #### Edwin Gardner
 
-- the three-fold model of imagination / money
+https://youtu.be/QhwXacDaq-E?t=21m52s
+
+- director, [Monnik](monnik.org)
+- "the three laws of money-imagination dynamics"
 - "most capital is invested in the status quo"
 - "money is an unreliable mistress"
 - "money needs a yes" - money needs a plan to follow, not a thing to stop
 - "fact follows fiction"
 
 #### Michelle Kasprzak
+
+https://youtu.be/QhwXacDaq-E?t=35m9s
 
 - "socialtechnical imaginaries" (Jasanoff)
 - High Modernism vs metis (Scott)
@@ -167,8 +174,6 @@ https://youtu.be/11hX-ptQZbw?t=47m24s
 
 https://www.youtube.com/watch?v=81pr1CubQZI
 
-#### Legacy Russell 
-#### Simone Niquille 
 #### Sarah Kember 🌟
 
 https://youtu.be/81pr1CubQZI?t=1m21s
@@ -178,4 +183,16 @@ https://youtu.be/81pr1CubQZI?t=1m21s
 -- there are still a lot of kitchens and shopping lists in these futures
 - full automatism == male solutionism
 - "the work of antagonism has never been more important"
+
+#### Legacy Russell 
+
+https://youtu.be/81pr1CubQZI?t=22m26s
+
+Glitch feminism & ghosting the body
+
+#### Simone Niquille 
+
+https://youtu.be/81pr1CubQZI?t=31m53s
+
+Interesting stuff about standard bodies and the history of motion & body capture.
 
