@@ -120,7 +120,7 @@ https://youtu.be/YMqazqYnoy0?t=47m2s
 
 ### Session: Alchemic Materials
 
-https://www.youtube.com/watch?v=4D9xlbotuB0
+https://www.youtube.com/watch?v=HIPnSEf2azQ
 
 #### Füsun Türetken
 
@@ -128,13 +128,13 @@ Basically just a bunch of stuff about her film.
 
 #### Pieter van Boheemen
 
-https://www.youtube.com/watch?v=4D9xlbotuB0
+https://youtu.be/HIPnSEf2azQ?t=16m24s
 
 A brief history of synthetic biology, ending on the open source [biobricks](https://biobricks.org/) movement.
 
 #### Crystal Bennes 🌟
 
-https://youtu.be/4D9xlbotuB0?t=43m39s
+https://youtu.be/HIPnSEf2azQ?t=33m39s
 
 A history of alchemy, with emphasis on its built-in ethics.
 
