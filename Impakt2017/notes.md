@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=QPGcJkHqpxc
 
 https://youtu.be/QPGcJkHqpxc?t=2m2s
 
-pr0n
+[ missed this talk ]
 
 #### Navine G. Khan-Dossos 🌟
 
