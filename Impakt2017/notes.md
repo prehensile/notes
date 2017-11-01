@@ -66,7 +66,7 @@ Datavis is not neutral!
 Same story, different data: https://twitter.com/nd_kane/status/923526134431698944
 
 
-## Thursday
+## Friday
 
 ### Session: Smart Objects
 
@@ -126,6 +126,8 @@ A brief history of synthetic biology, ending on the open source [biobricks](http
 https://youtu.be/4D9xlbotuB0?t=43m39s
 
 A history of alchemy, with emphasis on its built-in ethics.
+
+## Saturday
 
 ### Session: Exorcising The Database
 
