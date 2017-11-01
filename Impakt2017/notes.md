@@ -2,7 +2,7 @@
 
 ## Thursday
 
-### Session: Speculative Realities
+### Session: Speculative Realities
 
 https://www.youtube.com/watch?v=QhwXacDaq-E
 
@@ -75,7 +75,7 @@ Same story, different data: https://twitter.com/nd_kane/status/92352613443169894
 
 ## Friday
 
-### Session: Smart Objects
+### Session: Smart Objects
 
 https://youtu.be/YMqazqYnoy0
 
