@@ -77,17 +77,18 @@ Same story, different data: https://twitter.com/nd_kane/status/92352613443169894
 
 ### Session: Smart Objects
 
-https://youtu.be/1L2KcGUcnjE
+https://youtu.be/YMqazqYnoy0
 
 #### Opening remarks: Betti Marenko 🌟
 
-https://youtu.be/1L2KcGUcnjE?t=7m44s
+https://youtu.be/YMqazqYnoy0
+
 - "the strange animism of connected objects"
 - "clearly we are under a collective digital spell. smart objects enchant us, they keep us hypnotised as they harvest attention time and live information from us. some would even say that they are the product of sociopathic design."
 
 #### Joel Vacheron 🌟
 
-https://youtu.be/1L2KcGUcnjE?t=13m1s
+https://youtu.be/YMqazqYnoy0?t=5m18s
 
 Bits of technology which come along and make new art possible
 - Herbie Hancock Rockit video: https://www.youtube.com/watch?v=GHhD4PD75zY
@@ -96,7 +97,7 @@ Bunch of stuff about [David Em](https://en.wikipedia.org/wiki/David_Em)'s reside
 
 #### Luis Fernando Medina Cardona
 
-https://youtu.be/1L2KcGUcnjE?t=32m51s
+https://youtu.be/YMqazqYnoy0?t=25m17s
 
 - Layers of abstraction in software & networks
 -- OS, low level langauges,  high level langauges
@@ -106,6 +107,9 @@ https://youtu.be/1L2KcGUcnjE?t=32m51s
 - internet is not an anarchist utopia. the infrastrcture generally llives in traditional centres of power.
 
 #### Peter Moosgaard 🌟
+
+https://youtu.be/YMqazqYnoy0?t=47m2s
+
 - IoT == animism, a desire to return to connection with objects
 - cargoclub.tumblr.com
 - "engaging with the global sublime"
